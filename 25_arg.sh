@@ -1,4 +1,5 @@
 #!/bin/bash
+set -x
 
 #to access the arguments 
 
